@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Synans-OPC-Private-Limited-Login-Page/static/css/main.18147e6c.chunk.css",
+    "main.js": "/Synans-OPC-Private-Limited-Login-Page/static/js/main.fe3da4e5.chunk.js",
+    "main.js.map": "/Synans-OPC-Private-Limited-Login-Page/static/js/main.fe3da4e5.chunk.js.map",
+    "runtime-main.js": "/Synans-OPC-Private-Limited-Login-Page/static/js/runtime-main.93712a33.js",
+    "runtime-main.js.map": "/Synans-OPC-Private-Limited-Login-Page/static/js/runtime-main.93712a33.js.map",
+    "static/js/2.c12f66a7.chunk.js": "/Synans-OPC-Private-Limited-Login-Page/static/js/2.c12f66a7.chunk.js",
+    "static/js/2.c12f66a7.chunk.js.map": "/Synans-OPC-Private-Limited-Login-Page/static/js/2.c12f66a7.chunk.js.map",
+    "static/js/3.69fe6041.chunk.js": "/Synans-OPC-Private-Limited-Login-Page/static/js/3.69fe6041.chunk.js",
+    "static/js/3.69fe6041.chunk.js.map": "/Synans-OPC-Private-Limited-Login-Page/static/js/3.69fe6041.chunk.js.map",
+    "index.html": "/Synans-OPC-Private-Limited-Login-Page/index.html",
+    "static/css/main.18147e6c.chunk.css.map": "/Synans-OPC-Private-Limited-Login-Page/static/css/main.18147e6c.chunk.css.map",
+    "static/js/2.c12f66a7.chunk.js.LICENSE.txt": "/Synans-OPC-Private-Limited-Login-Page/static/js/2.c12f66a7.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Synans-OPC-Private-Limited-Login-Page/static/media/P1.945a0ef9.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.93712a33.js",
+    "static/js/2.c12f66a7.chunk.js",
+    "static/css/main.18147e6c.chunk.css",
+    "static/js/main.fe3da4e5.chunk.js"
+  ]
+}
